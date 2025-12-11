@@ -7,4 +7,11 @@ def hello_world():
 <br/>
 if __name__=='__main__':
    hello_world()
-   
+<br/>
+#Professional Data_science Project
+<br/>
+##installtion
+<br/>
+```bash
+<br/>
+pip install -r reuirements.txt
